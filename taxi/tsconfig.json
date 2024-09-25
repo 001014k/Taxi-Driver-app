@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["dom", "ES6"],
+    "strict": true,
+  },
+  "extends": "@react-native/typescript-config/tsconfig.json"
+}
